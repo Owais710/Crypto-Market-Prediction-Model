@@ -36,7 +36,5 @@ The model predicts whether the **next hourly candle** for a selected coin will g
 | DOTUSDT |
 | LINKUSDT |
 
----
 
-## 🛠️ Project Structure
 
